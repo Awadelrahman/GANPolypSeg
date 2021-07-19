@@ -14,5 +14,5 @@ https://www.awadelrahman.com/blog/2021-06-02-My-Talk-in-%26nbsp%3BMedico-challen
 ## GAN-based Model
 ![model](figures/model.png)
 
-## Result on test set
+## Result on Test Set
 ![test](figures/test1.png)
