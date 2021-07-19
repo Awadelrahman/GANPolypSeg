@@ -3,7 +3,9 @@
 ## Abstract
 This work aims to contribute in bench-marking the automatic polyp segmentation problem using generative adversarial networks framework. Perceiving the problem as an image-to-image translation task, conditional generative adversarial networks are utilized to generate masks conditioned by the images as inputs. Both generator and discriminator are convolution neural networks based. The model achieved 0.4382 on Jaccard index and 0.611 as F2 score. 
 
-## Reference Paper:
+## Resources:
+
+## Publication:
 https://arxiv.org/abs/2012.06771
 
 ## Presentaion Video:
