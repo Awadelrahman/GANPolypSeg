@@ -15,9 +15,7 @@ https://www.awadelrahman.com/blog/2021-06-02-My-Talk-in-%26nbsp%3BMedico-challen
 ![model](figures/model.png)
 
 ## Dataset used:
-[The Kvasir-SEG Dataset](https://datasets.simula.no/kvasir-seg/)
-
-Debesh Jha, Pia H. Smedsrud, Michael A. Riegler, Pål Halvorsen, Dag Johansen, Thomas de Lange, and Håvard D. Johansen, Kvasir-SEG: A Segmented Polyp Dataset, In Proceedings of the ternational conference on Multimedia Modeling, Republic of Korea, 2020.
+[The Kvasir-SEG Dataset](https://datasets.simula.no/kvasir-seg/): Debesh Jha, Pia H. Smedsrud, Michael A. Riegler, Pål Halvorsen, Dag Johansen, Thomas de Lange, and Håvard D. Johansen, Kvasir-SEG: A Segmented Polyp Dataset, In Proceedings of the ternational conference on Multimedia Modeling, Republic of Korea, 2020.
 
 ## Result on Test Set
 ![test](figures/test1.png)
