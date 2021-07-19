@@ -13,4 +13,4 @@ https://www.awadelrahman.com/blog/2021-06-02-My-Talk-in-%26nbsp%3BMedico-challen
 ![model](figures/model.png)
 
 ## Result on test set
-![test](figures/figures/test1.png)
+![test](figures/test1.png)
