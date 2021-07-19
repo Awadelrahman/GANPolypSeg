@@ -15,4 +15,6 @@ https://www.awadelrahman.com/blog/2021-06-02-My-Talk-in-%26nbsp%3BMedico-challen
 ![model](figures/model.png)
 
 ## Result on Test Set
+### Dataset used:
+(The Kvasir-SEG Dataset)(https://datasets.simula.no/kvasir-seg/)
 ![test](figures/test1.png)
