@@ -9,3 +9,8 @@ https://arxiv.org/abs/2012.06771
 ## Presentaion Video:
 https://www.awadelrahman.com/blog/2021-06-02-My-Talk-in-%26nbsp%3BMedico-challenge%3A%26nbsp%3BGenerative-Adversarial-Networks-for-Automatic-Polyp-Segmentation%26nbsp%3B.html?post_id=14
 
+## GAN-based Model
+![model](figures/model.png)
+
+## Result on test set
+![model](figures/figures/test1.png.png)
